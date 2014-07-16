@@ -1,1 +1,2 @@
-Some computer science basic algorithms.
+Computer science basic algorithms
+===
