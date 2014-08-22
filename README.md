@@ -5,7 +5,7 @@ Data structures
 ---
 1. LinkedList
 
-Sort
+Sorting
 ---
 1. MergeSort
 2. QuickSort
