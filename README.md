@@ -1,5 +1,5 @@
-Computer science basic data strucures & algorithms
----
+##Computer science basic data strucures & algorithms##
+
 **Data structures**
 
 1. LinkedList
