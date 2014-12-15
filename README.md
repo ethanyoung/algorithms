@@ -1,21 +1,19 @@
 Computer science basic data strucures & algorithms
-===
-
-Data structures
 ---
+**Data structures**
+
 1. LinkedList
 
-Sorting
----
+**Sorting**
+
 1. MergeSort
 2. QuickSort
 
-Tree
----
+**Tree**
+
 1. Tree
 2. AVLTree
 
+**Graph**
 
-Graph
----
 1. Graph
